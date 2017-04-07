@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "931843039899",
+    "firebase_url": "https://analyticsexample-f0806.firebaseio.com",
+    "project_id": "analyticsexample-f0806",
+    "storage_bucket": "analyticsexample-f0806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931843039899:android:9863dc7257ad87cb",
+        "android_client_info": {
+          "package_name": "cs4720.cs.virginia.edu.analyticsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931843039899-alva8398e1fkvim572rl2nolbb823t9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyRvTGkHp77NM-mElbI7K_B_Kt0vZsyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
